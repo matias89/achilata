@@ -14,3 +14,5 @@ npm install
 ```bash
 npm run dev
 ```
+
+Si todo se ejecutó de manera correcta, la aplicación deberia poder verse en [http://localhost:3000/](http://localhost:3000/)
